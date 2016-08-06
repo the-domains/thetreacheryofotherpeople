@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2616487
+  lightness: 0.9810374
+  brandStrength: 1
+  brandColors:
+    - '#F7E9E0'
+    - '#1D1E30'
+    - '#C9A49C'
+    - '#645E5B'
+    - '#828282'
+  rhythmicContrast: 0.3154122
+typography_spectrum: 0.6899642
+name: Thetreacheryofotherpeople
